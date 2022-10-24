@@ -1,2 +1,2 @@
 # PythonStuffs
-All resume and snippt codes for python
+All resume and snippt codes for python data science :)
